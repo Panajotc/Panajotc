@@ -1,4 +1,4 @@
-# Hi, I'm Panajot 👋
+# Hi, I'm Panajotis 👋
 
 Software Developer with experience in web development, mobile applications, automation, and data extraction.
 
